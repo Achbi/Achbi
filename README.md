@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Bahety(achbi)</h1>
+<h1 align="center">Hi 👋, I'm Harshit</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achbi" alt="achbi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/raghav_cha" target="blank"><img src="https://img.shields.io/twitter/follow/raghav_cha?logo=twitter&style=for-the-badge" alt="raghav_cha" /></a> </p>
